@@ -9,7 +9,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <h1>voracious!</h1>
+        <h1>Voracious!</h1>
         <SearchBar />
         <BusinessList />
       </div>
