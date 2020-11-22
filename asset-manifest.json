@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yelp-clone/static/css/main.fb55f242.chunk.css",
+    "main.js": "/yelp-clone/static/js/main.7d8c29a5.chunk.js",
+    "main.js.map": "/yelp-clone/static/js/main.7d8c29a5.chunk.js.map",
+    "runtime-main.js": "/yelp-clone/static/js/runtime-main.e1fb021c.js",
+    "runtime-main.js.map": "/yelp-clone/static/js/runtime-main.e1fb021c.js.map",
+    "static/js/2.72670bf4.chunk.js": "/yelp-clone/static/js/2.72670bf4.chunk.js",
+    "static/js/2.72670bf4.chunk.js.map": "/yelp-clone/static/js/2.72670bf4.chunk.js.map",
+    "index.html": "/yelp-clone/index.html",
+    "static/css/main.fb55f242.chunk.css.map": "/yelp-clone/static/css/main.fb55f242.chunk.css.map",
+    "static/js/2.72670bf4.chunk.js.LICENSE.txt": "/yelp-clone/static/js/2.72670bf4.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/yelp-clone/static/media/background_search_mobile.9e607f23.jpg",
+    "static/media/logo.103b5fa1.svg": "/yelp-clone/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1fb021c.js",
+    "static/js/2.72670bf4.chunk.js",
+    "static/css/main.fb55f242.chunk.css",
+    "static/js/main.7d8c29a5.chunk.js"
+  ]
+}
