@@ -1,9 +1,21 @@
 import React from 'react';
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
 import BusinessList from '../BusinessList/BusinessList.js';
 import SearchBar from '../SearchBar/SearchBar.js';
-import ReactDOM from 'react-dom';
+//import ReactDOM from 'react-dom';
+
+/*
+ReactDOM.render(
+  <div className="App">
+    <h1>Voracious!</h1>
+    <SearchBar />
+    <BusinessList />
+  </div>,
+document.getElementById('app')
+)
+*/
+
 
 class App extends React.Component {
   render() {
@@ -17,4 +29,5 @@ class App extends React.Component {
   }
 }
 
+//ReactDOM.render(<App />, document.getElementById('main'));
 export default App;
